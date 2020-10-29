@@ -1,0 +1,21 @@
+{
+  "token": "0x38034B2E6ae3fB7FEC5D895a9Ff3474bA0c283F6",
+  "name": "Uniswap",
+  "network": "3",
+  "symbol": "WASP",
+  "skin": "uniswap",
+  "strategies": [
+    {
+      "name": "wasp",
+      "params": {
+        "address": "0x38034B2E6ae3fB7FEC5D895a9Ff3474bA0c283F6",
+        "symbol": "WASP",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1000
+  }
+}
