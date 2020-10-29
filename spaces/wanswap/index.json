@@ -6,7 +6,7 @@
   "skin": "wanswap",
   "strategies": [
     {
-      "name": "wasp",
+      "name": "erc20-balance-of",
       "params": {
         "address": "0x38034B2E6ae3fB7FEC5D895a9Ff3474bA0c283F6",
         "symbol": "WASP",
