@@ -1,14 +1,14 @@
 {
-  "token": "0x38034B2E6ae3fB7FEC5D895a9Ff3474bA0c283F6",
-  "name": "Wanswap Testnet",
-  "network": "3",
+  "token": "0x927cee3eb8779e1e595562d4f68054217b6b2581",
+  "name": "WanSwap",
+  "network": "1",
   "symbol": "WASP",
   "skin": "wanswap",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x38034B2E6ae3fB7FEC5D895a9Ff3474bA0c283F6",
+        "address": "0x927cee3eb8779e1e595562d4f68054217b6b2581",
         "symbol": "WASP",
         "decimals": 18
       }
