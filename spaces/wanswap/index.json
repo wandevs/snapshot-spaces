@@ -1,5 +1,5 @@
 {
-  "token": "0x927cee3eb8779e1e595562d4f68054217b6b2581",
+  "token": "0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a",
   "name": "WanSwap",
   "network": "1",
   "symbol": "WASP",
@@ -8,7 +8,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x927cee3eb8779e1e595562d4f68054217b6b2581",
+        "address": "0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a",
         "symbol": "WASP",
         "decimals": 18
       }
