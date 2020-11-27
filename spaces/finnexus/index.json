@@ -6,6 +6,7 @@
   "domain": "vote.finnexus.io",
   "strategies": [
     {
+	  "token": "0x6D4C9E28006b6699C01A6F1C24f42d6c215A39df",	
       "name": "contract-call",
       "params": {
         "address": "0x6D4C9E28006b6699C01A6F1C24f42d6c215A39df",
