@@ -1,0 +1,17 @@
+{
+  "token": "0x0000000000000000000000000000000000000000",
+  "name": "Wanchain",
+  "network": "1",
+  "symbol": "WAN",
+  "skin": "wanswap",
+  "strategies": [
+    {
+      "name": "eth-balance",
+      "params": {}
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
